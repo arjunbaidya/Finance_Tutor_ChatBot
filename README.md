@@ -1,4 +1,4 @@
-# Finance Tutor ChatBot
+# Finance Tutor ChatBot App
 
 A finance tutor chatbot app using LangChain, Streamlit and OpenAI.
 
